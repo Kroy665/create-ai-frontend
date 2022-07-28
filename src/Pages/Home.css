@@ -1,0 +1,20 @@
+.output-section {
+    width: 30rem;
+    height: 40rem;
+    background-color: #e4e4e4;
+    border-radius: 0.5rem;
+    position: relative;
+    overflow: auto;
+}
+
+.ans-loading{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.textToCopy{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
